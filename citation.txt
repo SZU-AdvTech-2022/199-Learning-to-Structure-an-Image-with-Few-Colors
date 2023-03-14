@@ -1,0 +1,7 @@
+@inproceedings{REPO-200,
+    author = "Hou, Yunzhong and Zheng, Liang and Gould, Stephen",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "10116--10125",
+    title = "{Learning to Structure an Image with Few Colors}",
+    year = "2020"
+}
